@@ -7,7 +7,7 @@
 You can check my master's thesis in spanish [Design and construction of an ontology to formalize relationships of influence between sleep disorders and diseases from the medical domain][thesis]
 
 - 🔭 I’m currently working on Data Governance at Universidad de los Andes
-- 🌱 I’m currently learning Fullstack Develpment
+- 🌱 I’m currently learning Fullstack Development
 - 🔬 I've done research in AI, Semantic Web and Ontology Engineering
 - 👯 I’m looking to collaborate on projects related to web apps and AI
 - 🤔 I am looking for help to continue learning, researching and creating new technologies
