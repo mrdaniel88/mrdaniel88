@@ -23,7 +23,7 @@ You can check my master's thesis in spanish [Design and construction of an ontol
 <br></br>
 
 ## Languages and tools
-<img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:20px;" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" style="padding-right:20px;" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:20px;" />
